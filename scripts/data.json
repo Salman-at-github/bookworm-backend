@@ -1,0 +1,183 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A tale of love, wealth, and the American Dream in the Roaring Twenties.",
+      "genre": "Classic"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A story of racial injustice and moral growth set in the American South during the Great Depression.",
+      "genre": "Fiction"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel exploring the dangers of totalitarianism and the impact of mass surveillance.",
+      "genre": "Science Fiction"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel that satirizes social expectations and class distinctions in early 19th-century England.",
+      "genre": "Romance"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A coming-of-age novel that explores themes of alienation and teenage angst.",
+      "genre": "Coming-of-Age"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy novel that follows the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland.",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Harry Potter Series",
+      "author": "J.K. Rowling",
+      "description": "A series of fantasy novels following the life and adventures of a young wizard, Harry Potter.",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "description": "A dystopian series set in a future where teenagers are forced to participate in a televised death match.",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "An epic high-fantasy trilogy that follows the quest to destroy the One Ring.",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "description": "A novel exploring themes of obsession and revenge as Captain Ahab pursues the white whale.",
+      "genre": "Adventure"
+    },
+    {
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "description": "A series of high-fantasy novels that take readers to the magical land of Narnia.",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "description": "A magical realist novel that follows the Buendía family in the fictional town of Macondo.",
+      "genre": "Magical Realism"
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "description": "A horror novel that tells the story of a family's winter stay at the haunted Overlook Hotel.",
+      "genre": "Horror"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "description": "A mystery thriller that follows symbologist Robert Langdon as he investigates a murder at the Louvre.",
+      "genre": "Mystery"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "description": "A heartwarming novel that explores love and loss in the lives of two teenagers with cancer.",
+      "genre": "Young Adult"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "description": "Classic detective stories featuring the brilliant detective Sherlock Holmes and his loyal friend Dr. John Watson.",
+      "genre": "Mystery"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "description": "A dystopian novel that explores a futuristic society where people are engineered for specific roles and conformity is valued.",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "description": "A gothic novel that tells the story of Victor Frankenstein, a scientist who creates a sapient creature through an unorthodox scientific experiment.",
+      "genre": "Gothic"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "description": "A philosophical novel that examines the consequences of living a life without consequences.",
+      "genre": "Philosophical Fiction"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "description": "A post-apocalyptic novel that follows a father and son's journey through a desolate and dangerous world.",
+      "genre": "Post-Apocalyptic"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "description": "A whimsical and fantastical tale of a young girl named Alice who falls down a rabbit hole into a magical world.",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "description": "A gripping mystery novel featuring journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a wealthy family's dark secrets.",
+      "genre": "Mystery"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "description": "A dystopian novel set in a future society where books are banned and 'firemen' burn any that are found.",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "The Outsiders",
+      "author": "S.E. Hinton",
+      "description": "A coming-of-age novel that explores the social divide between two rival groups, the Greasers and the Socs.",
+      "genre": "Coming-of-Age"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "description": "A dystopian novel that explores a theocratic society where women are oppressed and used for reproductive purposes.",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "description": "A dystopian novel that follows the story of Alex, a young delinquent involved in ultraviolence, as he undergoes a controversial rehabilitation experiment.",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel that follows Santiago, a young shepherd, on his journey to find a hidden treasure.",
+      "genre": "Philosophical Fiction"
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "description": "A surreal novella that tells the story of Gregor Samsa, who wakes up one morning to find himself transformed into a giant insect.",
+      "genre": "Surreal"
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "description": "A novel that explores the struggles and triumphs of an African American woman named Celie in the early 20th century.",
+      "genre": "Historical Fiction"
+    },
+    {
+      "title": "The Road Not Taken",
+      "author": "Robert Frost",
+      "description": "A collection of poems that reflects on life's choices and the paths we take.",
+      "genre": "Poetry"
+    }
+  ]
+  

@@ -1,0 +1,29 @@
+# Ignore virtual environment
+/bookworm-venv/
+
+#Ignore env
+.env
+
+# Ignore instance folder
+/instance/
+
+# Ignore database file
+/db.sqlite
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyproj
+*.pycproj
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
