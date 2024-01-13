@@ -85,7 +85,6 @@ def get_fields():
     except Exception as e:
         return jsonify({'message': 'An unexpected error occurred','error':e}), 500
 
-# Add this route to fetch user preferences
 @app.route('/api/user/getpreferences', methods=['GET'])
 @jwt_required()
 def get_user_preferences():
